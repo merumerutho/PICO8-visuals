@@ -9,6 +9,13 @@ A collection of interactive visual eye-candy in the form of PICO-8 cartridges, b
 ## Preview
 You can see the previews on my <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTU1MTg5NzM2MzI0OTYy">Instagram Stories</a> (sorry, I know it's unconvenient).
 
+## Fullscreen mode
+To play any of this cart in fullscreen, just navigate to the folder of the executable, open your terminal / command prompt inside the folder and launch:
+
+name_of_the_cart.exe -draw_rect 0,0,1920,1080 -windowed 0
+
+where 1920 and 1080 depend on your resolution.
+
 ## Commands
 ### Abstractline
 
