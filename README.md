@@ -2,6 +2,10 @@
 
 A collection of interactive visual eye-candy in the form of PICO-8 cartridges, both in source and binary files.
 
+## Download 
+
+<a href="https://github.com/Merutochan/PICO8-visuals/releases/">Download binaries (WIN/MACOS/LINUX/RASPI)</a>
+
 ## Commands
 ### Abstractline
 
