@@ -6,6 +6,9 @@ A collection of interactive visual eye-candy in the form of PICO-8 cartridges, b
 
 <a href="https://github.com/Merutochan/PICO8-visuals/releases/">Download binaries (WIN/MACOS/LINUX/RASPI)</a>
 
+## Preview
+You can see the previews on my <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTU1MTg5NzM2MzI0OTYy">Instagram Stories</a> (sorry, I know it's unconvenient).
+
 ## Commands
 ### Abstractline
 
